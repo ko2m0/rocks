@@ -1,0 +1,19 @@
+
+.parallax-container {
+    box-sizing: border-box;
+  }
+
+.parallax-row {
+    display: flex;
+    max-width: 1444px;;
+    padding: 13vh;
+    margin: 0 auto;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    line-height: 1.5;
+  }
+
+.parallax-container-bg-img{
+    background-color: aqua;
+}
