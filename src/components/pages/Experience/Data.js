@@ -48,7 +48,9 @@
     topLine: 'Experience',
     headline: 'Designer sr.',
     description: 'House of Avocado',
-    description2: 'Apr 2021 - ',
+    description2: 'Apr 2021 - Current',
+    experienceLink: 'website',
+    ExperiencePath: 'https://casadelaguacate.com',
     img: 'images/svg-3.svg',
   }
   
@@ -56,7 +58,7 @@
   export const experienceOneDesc = {
     lightBg: false,
     Skill: 'House of Avocado Job',
-    experienceDescription: '',
+    experienceDescription: 'This is a description',
   }
 
   export const experienceTwo = {
@@ -66,6 +68,8 @@
     headline: 'Web Designer Sr.',
     description: 'Owners-Link',
     description2: 'Mar 2015 - Oct 2020',
+    experienceLink: '',
+    ExperiencePath: 'https://neo-m.owners-link.com/eng',
     img: 'images/svg-4.svg',
   }
   
@@ -83,6 +87,7 @@
     headline: 'Web Designer Sr.',
     description: 'MovilAction',
     description2: 'Apr 2013 - Nov 2013',
+    experienceLink: '',
     img: 'images/svg-5.svg',
   }
   
@@ -100,6 +105,7 @@
     headline: 'Head of Department',
     description: 'Cuautitlan Izcalli City Hall',
     description2: 'Aug 2009 - Dec 2012',
+    experienceLink: 'https://www.cuautitlanizcalli.gob.mx',
     img: 'images/svg-2.svg',
   }
   
