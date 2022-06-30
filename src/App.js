@@ -16,6 +16,7 @@ function App() {
           <Route path='/experience' component={Experience}/>
           <Route path='/education' component={Education}/>
         </Switch>
+        <Home/>
         <Footer/>
       </Router>
   );
