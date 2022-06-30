@@ -63,14 +63,14 @@ function HeroSection({
                 }}
                 >
                       <Link className='social-icon-link-heading'
-                            to='https://bit.ly/3HFsg5a'
+                            to={{ pathname: "https://bit.ly/3HFsg5a"}}
                             target='_blank'
                             aria-label='GitHub'
                         >
                         <FaGithub />
                       </Link>
                       <Link className='social-icon-link-heading'
-                            to='https://bit.ly/3ny7BId'
+                            to={{ pathname: "https://bit.ly/3ny7BId"}}
                             target='_blank'
                             aria-label='Dribbble'
                       >
@@ -78,7 +78,7 @@ function HeroSection({
                       </Link>
                       <Link
               className='social-icon-link-heading'
-              to='https://linkedin.com/in/kozmoromero'
+              to={{ pathname: "https://linkedin.com/in/kozmoromero"}}
               target='_blank'
               aria-label='LinkedIn'
             >
@@ -86,14 +86,14 @@ function HeroSection({
             </Link>
             <Link
               className='social-icon-link-heading'
-              to='https://twitter.com/kozmo_'
+              to={{ pathname: "https://twitter.com/kozmo_"}}
               target='_blank'
               aria-label='Twitter'
             >
               <FaTwitter />
             </Link>
             <Link className='social-icon-link-heading'
-                            to='https://bit.ly/3lejBNB'
+                            to={{ pathname: "https://bit.ly/3lejBNB"}}
                             target='_blank'
                             aria-label='Medium'
                       >
