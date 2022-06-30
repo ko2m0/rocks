@@ -10,7 +10,7 @@ class ImgCard extends Component {
                 thumbUrl: "https://via.placeholder.com/400",
             },
             {
-                url: "https://casadelaguacate.com/sitioweb2/media/img/letsgettech1.png",
+                url: "https://via.placeholder.com/600",
                 title: "",
                 thumbUrl: "https://via.placeholder.com/400",
             },

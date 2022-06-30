@@ -61,7 +61,7 @@ function Footer() {
           <div className='social-icons'>
             <Link
               className='social-icon-link'
-              to='/'
+              to={{ pathname: "https://bit.ly/3HFsg5a"}}
               target='_blank'
               aria-label='GitHub'
             >
@@ -69,7 +69,7 @@ function Footer() {
             </Link>
             <Link
               className='social-icon-link'
-              to='/'
+              to={{ pathname: "https://bit.ly/3ny7BId"}}
               target='_blank'
               aria-label='Dribbble'
             >
@@ -77,9 +77,7 @@ function Footer() {
             </Link>
             <Link
               className='social-icon-link'
-              to={
-                '//www.youtube.com/channel/UCsKsymTY_4BYR-wytLjex7A?view_as=subscriber'
-              }
+              to={{ pathname: "https://linkedin.com/in/kozmoromero"}}
               target='_blank'
               aria-label='LinkedIn'
             >
@@ -87,7 +85,7 @@ function Footer() {
             </Link>
             <Link
               className='social-icon-link'
-              to='/'
+              to={{ pathname: "https://twitter.com/kozmo_"}}
               target='_blank'
               aria-label='Twitter'
             >
@@ -95,7 +93,7 @@ function Footer() {
             </Link>
             <Link
               className='social-icon-link'
-              to='/'
+              to={{ pathname: "https://bit.ly/3lejBNB"}}
               target='_blank'
               aria-label='Medium'
             >
