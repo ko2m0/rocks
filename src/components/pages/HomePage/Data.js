@@ -9,9 +9,9 @@ export const homeObjOne = {
       'I am an arcaic but updated software living in a cracked simulated reality',
     buttonLabel: '',
     imgStart: '',
-    img: 'images/svg-1.svg',
+    img: './images/svg-1.svg',
     alt: 'Oh so Glitched me',
-    logoImg: 'images/kozmo_Logo4ws_1.svg',
+    logoImg: './images/kozmo_Logo4ws_1.svg',
     homeSocialIcons: true,
   };
   
@@ -25,7 +25,7 @@ export const homeObjOne = {
     descriptionP2: 'I have a degree in Journalism and Communication with more than ten years of experience in Visual Communication, Marketing and Web/Graphic Design working in both private and government companies and also abroad.',
     buttonLabel: 'Download Resume',
     imgStart: '',
-    img: 'images/svg-1.svg',
+    img: './images/svg-1.svg',
     alt: '',
   };
 
@@ -39,7 +39,7 @@ export const homeObjOne = {
       'A small description of me me me me me ',
     buttonLabel: 'Download Resume',
     imgStart: '',
-    img: 'images/svg-1.svg',
+    img: './images/svg-1.svg',
     alt: '',
   };
   
@@ -54,7 +54,7 @@ export const homeObjOne = {
       'We have you covered no matter where you are located. Over 140 locations worldwide to ensure you have access anytime',
     buttonLabel: 'Learn More',
     imgStart: '',
-    img: 'images/svg-5.svg',
+    img: './images/svg-5.svg',
     alt: 'Vault',
     homeSocialIcons: false,
   };
@@ -69,7 +69,7 @@ export const homeObjOne = {
       "Get everything set up and ready in under 10 minutes. All you need to do is add your information and you're ready to go.",
     buttonLabel: 'Start Now',
     imgStart: '',
-    img: 'images/svg-7.svg',
+    img: './images/svg-7.svg',
     alt: 'Vault'
   };
   
@@ -83,7 +83,7 @@ export const homeObjOne = {
       'Never ever have to worry again about saved reciepts. We store your data, so you can access it anytime.',
     buttonLabel: 'Sign Up Now',
     imgStart: 'start',
-    img: 'images/svg-8.svg',
+    img: './images/svg-8.svg',
     alt: 'Vault'
   };
 
@@ -95,7 +95,7 @@ export const homeObjOne = {
     headline: 'Web Design UX/UI',
     description: 'I have 7+ yrs of experience creating user flows, wireframes, mockups, prototypes, UX/UI designs and user tests for public, private and foreign companies alike.',
     description2: 'I shape all stages of the Design process. From conceptualizing, to designing, to developing, to deploying web assets, apps, landing pages, and websites.',
-    img: 'images/svg-8.svg',
+    img: './images/svg-8.svg',
   }
 
   export const latestprojectsWS = {
