@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "9e73578f4891f14251fa",
+    "revision": "4b8279285b35addb1655",
     "url": "/rocks/static/css/main.0bb5d4da.chunk.css"
   },
   {
-    "revision": "9e73578f4891f14251fa",
-    "url": "/rocks/static/js/main.9e73578f.chunk.js"
+    "revision": "4b8279285b35addb1655",
+    "url": "/rocks/static/js/main.4b827928.chunk.js"
   },
   {
     "revision": "a0dac3c286bff1b5a457",
@@ -24,7 +24,7 @@ self.__precacheManifest = [
     "url": "/rocks/static/media/retro_computer_personal_use-webfont.e9e0664c.woff"
   },
   {
-    "revision": "176e4268547e8cab47fbd0f91a8da0b5",
+    "revision": "5b6efe704d408e22cc6ff89b736d3cd5",
     "url": "/rocks/index.html"
   }
 ];
