@@ -112,6 +112,6 @@
 
   export const experienceFourDesc = {
     lightBg: false,
-    Skill: 'Experience 4',
+    Skill: 'C Izcalli Job',
     experienceDescription: 'Management and administration of the “Municipal Digital Identity” area, being responsible for the City Hall’s official website, as well as for the administration and production of multimedia content never before carried out in the municipality, such as live streams of special events, Social Media Management, among many others.',
   }

@@ -1,6 +1,7 @@
 import React from 'react'
 import ExperienceDescription from '../../ExperienceDescription';
 import ExperienceSection from '../../ExperienceSection';
+import ParallaxXperience1 from '../../ParallaxXperience1';
 import { 
         experienceOne,
         experienceOneDesc,
@@ -19,6 +20,7 @@ function Experience() {
     <ExperienceDescription {...experienceOneDesc} />
     <ExperienceSection  {...experienceTwo}/>
     <ExperienceDescription {...experienceTwoDesc} />
+    <ParallaxXperience1/>
     <ExperienceSection  {...experienceThree}/>
     <ExperienceDescription {...experienceThreeDesc} />
     <ExperienceSection  {...experienceFour}/>

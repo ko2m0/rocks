@@ -6,7 +6,7 @@ function Parallax1() {
     <>
     <div className='parallax-container parallax-container-bg-img'>
         <div className='parallax-row'>
-            <h3>I like to keep my mind busy. Call it a Pluralsight React course, an art-driven documentary film or even a techy TED talk,
+            <h3>I like to keep my mind busy. Call it a Pluralsight React course, an art-driven documentary film or even a techie TED talk,
                  I'm always eager to learn and broaden my cultural and intellectual baggage.</h3>
         </div>
     </div>

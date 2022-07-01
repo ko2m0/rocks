@@ -5,7 +5,7 @@ export const educationOne = {
     headline: 'UX Designer',
     description: '',
     description2: 'Jun 2022',
-    img: 'images/svg-2.svg',
+    img: 'images/UXcert1.png',
   }
 
   
