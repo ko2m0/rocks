@@ -14,10 +14,10 @@ function App() {
       <BrowserRouter>
         <Navbar/>
         <Switch>
-          <Route exact path='/'><Home/></Route>
-          <Route path='/experience' component={Experience}/>
-          <Route path='/education' component={Education}/>
-          <Route path="*" component={NoPage} />
+          <Route path='/' exact index><Home/></Route>
+          <Route path='/experience'><Experience/></Route>
+          <Route path='/education'><Education/></Route>
+          <Route path="*"><NoPage/></Route>
         </Switch>
         <Footer/>
       </BrowserRouter>
