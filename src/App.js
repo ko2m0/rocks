@@ -6,15 +6,17 @@ import Home from './components/pages/HomePage/Home';
 import Experience from './components/pages/Experience/Experience';
 import Education from './components/pages/Education/Education';
 import Footer from './components/pages/Footer/Footer';
+import NoPage from './components/pages/NoPage';
 
 function App() {
   return (
       <Router>
         <Navbar/>
         <Switch>
-          <Route exact path='/' component={Home}/>
+          <Route exact path='/' index component={Home}/>
           <Route path='/experience' component={Experience}/>
           <Route path='/education' component={Education}/>
+          <Route path="*" component={NoPage} />
         </Switch>
         <Footer/>
       </Router>
