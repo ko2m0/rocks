@@ -1,7 +1,7 @@
 {
   "main.css": "/rocks/static/css/main.0bb5d4da.chunk.css",
-  "main.js": "/rocks/static/js/main.3bf9daf9.chunk.js",
-  "main.js.map": "/rocks/static/js/main.3bf9daf9.chunk.js.map",
+  "main.js": "/rocks/static/js/main.64a7fbc3.chunk.js",
+  "main.js.map": "/rocks/static/js/main.64a7fbc3.chunk.js.map",
   "static/js/1.a0dac3c2.chunk.js": "/rocks/static/js/1.a0dac3c2.chunk.js",
   "static/js/1.a0dac3c2.chunk.js.map": "/rocks/static/js/1.a0dac3c2.chunk.js.map",
   "runtime~main.js": "/rocks/static/js/runtime~main.bcd2e405.js",
@@ -9,6 +9,6 @@
   "static/media/App.css": "/rocks/static/media/retro_computer_personal_use-webfont.e9e0664c.woff",
   "static/css/main.0bb5d4da.chunk.css.map": "/rocks/static/css/main.0bb5d4da.chunk.css.map",
   "index.html": "/rocks/index.html",
-  "precache-manifest.f0950351c3bb2dd40f99623d2fab41f6.js": "/rocks/precache-manifest.f0950351c3bb2dd40f99623d2fab41f6.js",
+  "precache-manifest.15d5411a380d4ebd3303059273b47582.js": "/rocks/precache-manifest.15d5411a380d4ebd3303059273b47582.js",
   "service-worker.js": "/rocks/service-worker.js"
 }
