@@ -11,17 +11,14 @@ import NoPage from './components/pages/NoPage';
 
 function App() {
   return (
-      <Router basename={'/'}>
+      <>
         <Navbar/>
-        <Switch>
           <Route path="/" exact component={Home}/>
           <Route path="/experience" component={Experience}/>
           <Route path="/education" component={Education}/>
           <Route path="*" component={NoPage} />
-        </Switch>
         <Footer/>
-      </Router>
-      
+        </>
   );
 }
 
