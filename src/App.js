@@ -1,7 +1,7 @@
 import React from 'react';
 import './App.css';
 import Navbar  from './components/Navbar';
-import { BrowserRouter as Router, Switch, Route } from 'react-router-dom';
+import { Switch, Route } from 'react-router-dom';
 import Home from './components/pages/HomePage/Home';
 import Experience from './components/pages/Experience/Experience';
 import Education from './components/pages/Education/Education';
@@ -13,10 +13,12 @@ function App() {
   return (
       <>
         <Navbar/>
-          <Route path="/" exact component={Home}/>
+        <Switch>
           <Route path="/experience" component={Experience}/>
           <Route path="/education" component={Education}/>
+          <Route path="/" component={Home}/>
           <Route path="*" component={NoPage} />
+        </Switch>
         <Footer/>
         </>
   );
