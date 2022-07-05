@@ -88,7 +88,7 @@
     description: 'MovilAction',
     description2: 'Apr 2013 - Nov 2013',
     experienceLink: '',
-    img: '/images/svg-5.svg',
+    img: 'https://ko2m0.github.io/rocks/images/svg-5.svg',
   }
   
 
@@ -106,7 +106,7 @@
     description: 'Cuautitlan Izcalli City Hall',
     description2: 'Aug 2009 - Dec 2012',
     experienceLink: 'https://www.cuautitlanizcalli.gob.mx',
-    img: '/images/svg-2.svg',
+    img: 'https://ko2m0.github.io/rocks/images/svg-2.svg',
   }
   
 
