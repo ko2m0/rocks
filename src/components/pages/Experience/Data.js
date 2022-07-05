@@ -10,7 +10,7 @@
       'We have you covered no matter where you are located. Over 140 locations worldwide to ensure you have access anytime',
     buttonLabel: 'Learn More',
     imgStart: '',
-    img: 'images/svg-5.svg',
+    img: '/images/svg-5.svg',
     alt: 'Vault'
   };
   
@@ -24,7 +24,7 @@
       "Get everything set up and ready in under 10 minutes. All you need to do is add your information and you're ready to go.",
     buttonLabel: 'Start Now',
     imgStart: 'start',
-    img: 'images/svg-7.svg',
+    img: '/images/svg-7.svg',
     alt: 'Vault'
   };
   
@@ -38,7 +38,7 @@
       'Never ever have to worry again about saved reciepts. We store your data, so you can access it anytime.',
     buttonLabel: 'Sign Up Now',
     imgStart: 'start',
-    img: 'images/svg-8.svg',
+    img: '/images/svg-8.svg',
     alt: 'Vault'
   };
 
@@ -51,7 +51,7 @@
     description2: 'Apr 2021 - Current',
     experienceLink: 'website',
     ExperiencePath: 'https://casadelaguacate.com',
-    img: 'images/svg-3.svg',
+    img: '/images/svg-3.svg',
   }
   
 
@@ -70,7 +70,7 @@
     description2: 'Mar 2015 - Oct 2020',
     experienceLink: '',
     ExperiencePath: 'https://neo-m.owners-link.com/eng',
-    img: 'images/svg-4.svg',
+    img: '/images/svg-4.svg',
   }
   
 
@@ -88,7 +88,7 @@
     description: 'MovilAction',
     description2: 'Apr 2013 - Nov 2013',
     experienceLink: '',
-    img: 'images/svg-5.svg',
+    img: '/images/svg-5.svg',
   }
   
 
@@ -106,7 +106,7 @@
     description: 'Cuautitlan Izcalli City Hall',
     description2: 'Aug 2009 - Dec 2012',
     experienceLink: 'https://www.cuautitlanizcalli.gob.mx',
-    img: 'images/svg-2.svg',
+    img: '/images/svg-2.svg',
   }
   
 

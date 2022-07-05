@@ -5,7 +5,7 @@ export const educationOne = {
     headline: 'UX Designer',
     description: '',
     description2: 'Jun 2022',
-    img: 'images/UXcert1.png',
+    img: '/images/UXcert1.png',
   }
 
   
@@ -17,7 +17,7 @@ export const educationOne = {
     headline: 'Front End Developer',
     description: '',
     description2: 'Jun 2020',
-    img: 'images/svg-4.svg',
+    img: '/images/svg-4.svg',
   }
 
   export const educationThree = {
@@ -27,7 +27,7 @@ export const educationOne = {
     headline: 'Universidad de Cuautitlan Izcalli',
     description: 'Bachelor’s Degree in Media and Journalism',
     description2: 'Aug 2005 - Oct 2009',
-    img: 'images/svg-2.svg',
+    img: '/images/svg-2.svg',
   }
 
   export const educationThreeDesc = {

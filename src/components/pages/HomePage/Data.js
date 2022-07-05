@@ -9,9 +9,9 @@ export const homeObjOne = {
       'I am an arcaic but updated software living in a cracked simulated reality',
     buttonLabel: '',
     imgStart: '',
-    img: './images/svg-1.svg',
+    img: '/images/svg-1.svg',
     alt: 'Oh so Glitched me',
-    logoImg: './images/kozmo_Logo4ws_1.svg',
+    logoImg: '/images/kozmo_Logo4ws_1.svg',
     homeSocialIcons: true,
   };
   
@@ -25,7 +25,7 @@ export const homeObjOne = {
     descriptionP2: 'I have a degree in Journalism and Communication with more than ten years of experience in Visual Communication, Marketing and Web/Graphic Design working in both private and government companies and also abroad.',
     buttonLabel: 'Download Resume',
     imgStart: '',
-    img: './images/svg-1.svg',
+    img: '/images/svg-1.svg',
     alt: '',
   };
 
@@ -39,7 +39,7 @@ export const homeObjOne = {
       'A small description of me me me me me ',
     buttonLabel: 'Download Resume',
     imgStart: '',
-    img: './images/svg-1.svg',
+    img: '/images/svg-1.svg',
     alt: '',
   };
   
@@ -54,7 +54,7 @@ export const homeObjOne = {
       'We have you covered no matter where you are located. Over 140 locations worldwide to ensure you have access anytime',
     buttonLabel: 'Learn More',
     imgStart: '',
-    img: './images/svg-5.svg',
+    img: '/images/svg-5.svg',
     alt: 'Vault',
     homeSocialIcons: false,
   };
@@ -69,7 +69,7 @@ export const homeObjOne = {
       "Get everything set up and ready in under 10 minutes. All you need to do is add your information and you're ready to go.",
     buttonLabel: 'Start Now',
     imgStart: '',
-    img: './images/svg-7.svg',
+    img: '/images/svg-7.svg',
     alt: 'Vault'
   };
   
@@ -83,7 +83,7 @@ export const homeObjOne = {
       'Never ever have to worry again about saved reciepts. We store your data, so you can access it anytime.',
     buttonLabel: 'Sign Up Now',
     imgStart: 'start',
-    img: './images/svg-8.svg',
+    img: '/images/svg-8.svg',
     alt: 'Vault'
   };
 
@@ -95,7 +95,7 @@ export const homeObjOne = {
     headline: 'Web Design UX/UI',
     description: 'I have 7+ yrs of experience creating user flows, wireframes, mockups, prototypes, UX/UI designs and user tests for public, private and foreign companies alike.',
     description2: 'I shape all stages of the Design process. From conceptualizing, to designing, to developing, to deploying web assets, apps, landing pages, and websites.',
-    img: './images/svg-8.svg',
+    img: '/images/svg-8.svg',
   }
 
   export const latestprojectsWS = {
@@ -116,7 +116,7 @@ export const homeObjOne = {
     headline: 'Graphic Design',
     description: 'I started doodling and drawing since I was a kid because of my Dad who is a great painter and craftsman. Back in high school I got into the whole graffiti techniques and culture and when I got to college I´d already crossed to the digital age of design.',
     description2: ' I´ve done professional illustrations for more than 15 years, either working as a paid employee or as a freelancer.',
-    img: 'images/svg-7.svg',
+    img: '/images/svg-7.svg',
   }
 
   export const latestprojectsGD = {
@@ -137,7 +137,7 @@ export const homeObjOne = {
     topLine: 'Skills',
     headline: 'Web Dev',
     description: 'I have more than ten years of experience in the creation of html structures either through frameworks (bootstrap, foundation, w3, etc.) or my own plain text. I use strategies to design semantic sites that match the W3C standards, as well as methods such as "OOCSS" and "SMACSS" to manage style sheets, which I optimize through compilers such as LESS and SASS.',
-    img: 'images/svg-6.svg',
+    img: '/images/svg-6.svg',
   }
 
   export const latestprojectsWDev = {
@@ -158,7 +158,7 @@ export const homeObjOne = {
     headline: 'Marketing',
     description: 'I have the technical and intellectual skills to detect, plan, design and develop campaigns for markets of various sociocultural segments that boost the prestige of a brand or the sales of a product or service.',
     description2: 'I combine the most traditional techniques with current digital tools to manufacture content of qualitative and quantitative quality.',
-    img: 'images/svg-5.svg',
+    img: '/images/svg-5.svg',
   }
 
   export const latestprojectsMkt = {
@@ -178,7 +178,7 @@ export const homeObjOne = {
     topLine: 'Skills',
     headline: 'Creative',
     description: 'am good at this isht',
-    img: 'images/svg-4.svg',
+    img: '/images/svg-4.svg',
   }
 
   export const latestprojectsCreative = {
@@ -198,7 +198,7 @@ export const homeObjOne = {
     topLine: 'Skills',
     headline: 'Multimedia',
     description: 'As an aspiring visual artist and whimsical wavemaker, I enjoy working with multimedia tools to communicate ideas that later become marketing tools for succesful products and services.',
-    img: 'images/svg-3.svg',
+    img: '/images/svg-3.svg',
   }
 
   export const latestprojectsMm = {
