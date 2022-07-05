@@ -1,14 +1,14 @@
 {
   "main.css": "/rocks/static/css/main.12406482.chunk.css",
-  "main.js": "/rocks/static/js/main.a503272c.chunk.js",
-  "main.js.map": "/rocks/static/js/main.a503272c.chunk.js.map",
+  "main.js": "/rocks/static/js/main.870068ea.chunk.js",
+  "main.js.map": "/rocks/static/js/main.870068ea.chunk.js.map",
   "static/js/1.0fa33a87.chunk.js": "/rocks/static/js/1.0fa33a87.chunk.js",
   "static/js/1.0fa33a87.chunk.js.map": "/rocks/static/js/1.0fa33a87.chunk.js.map",
   "runtime~main.js": "/rocks/static/js/runtime~main.bcd2e405.js",
   "runtime~main.js.map": "/rocks/static/js/runtime~main.bcd2e405.js.map",
-  "static/media/App.css": "/rocks/static/media/retro_computer_personal_use.1e40420a.ttf",
+  "static/media/App.css": "/rocks/static/media/retro_computer_personal_use-webfont.e9e0664c.woff",
   "static/css/main.12406482.chunk.css.map": "/rocks/static/css/main.12406482.chunk.css.map",
   "index.html": "/rocks/index.html",
-  "precache-manifest.e839bd1c402af292037dac5f27b860a9.js": "/rocks/precache-manifest.e839bd1c402af292037dac5f27b860a9.js",
+  "precache-manifest.21e4ac7690c9b93a6c1e2ac68fbde213.js": "/rocks/precache-manifest.21e4ac7690c9b93a6c1e2ac68fbde213.js",
   "service-worker.js": "/rocks/service-worker.js"
 }
