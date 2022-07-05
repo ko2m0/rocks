@@ -11,7 +11,7 @@ export const homeObjOne = {
     imgStart: '',
     img: '/images/svg-1.svg',
     alt: 'Oh so Glitched me',
-    logoImg: '/images/kozmo_Logo4ws_1.svg',
+    logoImg: './assets/img/kozmo_Logo4ws_1.svg',
     homeSocialIcons: true,
   };
   
