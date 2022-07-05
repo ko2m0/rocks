@@ -81,10 +81,11 @@
   
   .home__hero-img-wrapper {
     max-width: 555px;
+    margin: 0 auto;
   }
   
   .home__hero-img {
-    max-width: 95%;
+    max-width: 100%;
     margin-top: 0;
     margin-right: 0;
     margin-left: 10px;
@@ -304,4 +305,23 @@
   100% {
     clip: rect(35px, 350px, 84px, 30px);
   }
+}
+
+
+.home__hero-section:after {
+  content: '';
+  width: 20%;
+  height: 100%;
+  max-width: 330px;
+  max-height: 311px;
+  background-image: url(../../src/assets/img/blot_1.png);
+  position: absolute;
+  background-position: middle right;
+  background-repeat: no-repeat;
+  top: 90%;
+  left: 80%;
+  z-index: 1;
+  opacity: 1; 
+  overflow: hidden;
+  
 }

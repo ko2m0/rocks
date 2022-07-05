@@ -39,7 +39,7 @@ export const homeObjOne = {
       'A small description of me me me me me ',
     buttonLabel: 'Download Resume',
     imgStart: '',
-    img: 'https://ko2m0.github.io/rocks/images/svg-1.svg',
+    img: '/images/WD_imgBg1.png',
     alt: '',
   };
   
@@ -95,7 +95,7 @@ export const homeObjOne = {
     headline: 'Web Design UX/UI',
     description: 'I have 7+ yrs of experience creating user flows, wireframes, mockups, prototypes, UX/UI designs and user tests for public, private and foreign companies alike.',
     description2: 'I shape all stages of the Design process. From conceptualizing, to designing, to developing, to deploying web assets, apps, landing pages, and websites.',
-    img: 'https://ko2m0.github.io/rocks/images/svg-8.svg',
+    img: '/images/WD_imgBg1.png',
   }
 
   export const latestprojectsWS = {
