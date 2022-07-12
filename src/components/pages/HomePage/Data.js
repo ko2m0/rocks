@@ -147,7 +147,7 @@ export const homeObjOne = {
     projectImg: 'https://casadelaguacate.com/sitioweb2/media/img/recipe1.png',
     imgAlt: 'alt1',
     projectTitle: 'Web Development title 1',
-    projectDescription: 'Web Development description 1', 
+    projectDescription: 'I discovered web design and development when I was making independent flash animations and websites. I came to realize what an amazing experience it was to be able to communicate with a computer through this language and create visual experiences with it. From then on, coding has become a way to express my graphic creativity.', 
     projectLink: 'a link here',
   }
 

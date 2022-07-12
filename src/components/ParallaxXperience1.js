@@ -6,7 +6,7 @@ function ParallaxXperience3() {
     <>
     <div className='parallax-container parallax-container-bg-img'>
         <div className='parallax-row'>
-            <h3>This is a Parallax info</h3>
+            <h3>As a Freelancer I've had the opportunity....</h3>
         </div>
     </div>
     </>

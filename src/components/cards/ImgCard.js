@@ -6,19 +6,19 @@ class ImgCard extends Component {
     render() {
         var data = [
             {
-                url: "https://casadelaguacate.com/sitioweb2/media/img/letsgettech1.png",
+                url: "/images/wd_project1_600_1.jpg",
                 title: "",
-                thumbUrl: "https://via.placeholder.com/400",
+                thumbUrl: "/images/wd_project1_400_1.jpg",
             },
             {
-                url: "https://casadelaguacate.com/sitioweb2/media/img/letsgettech1.png",
+                url: "/images/wd_project2_600_1.jpg",
                 title: "",
-                thumbUrl: "https://via.placeholder.com/400",
+                thumbUrl: "/images/wd_project2_400_1.jpg",
             },
             {
-                url: "https://casadelaguacate.com/sitioweb2/media/img/letsgettech1.png",
+                url: "/images/wd_project3_600_1.jpg",
                 title: "",
-                thumbUrl: "https://via.placeholder.com/400",
+                thumbUrl: "/images/wd_project3_400_1.jpg",
             }
         ];
 
