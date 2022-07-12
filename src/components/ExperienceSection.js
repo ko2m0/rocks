@@ -1,5 +1,10 @@
 import React from 'react';
 import './HeroSection.css';
+import { Link } from 'react-router-dom';
+import {
+    FaCalendar,
+    FaExternalLinkAlt
+  } from 'react-icons/fa';
 
 function ExperienceSection({
   lightBg,
@@ -9,6 +14,8 @@ function ExperienceSection({
   headline,
   description,
   description2,
+  experienceLink,
+  ExperiencePath,
   img,
   alt,
   imgStart,
@@ -30,9 +37,21 @@ function ExperienceSection({
                         <h2 className={ lightTextDesc ? 'home__hero-subtitle dark' : 'home__hero-subtitle' }>
                              @ {description} 
                         </h2>
-                        <p className={ lightTextDesc ? 'home__hero-subtitle dark' : 'home__hero-subtitle' }>
-                            {description2}
-                        </p>
+                        <Link className='social-icon-link-heading xperience-data'>
+                            <div style={{ display: 'flex', padding: '15px 0'}}>
+                            <FaCalendar />
+                        <h4>{description2}</h4>
+                            </div>
+                        </Link>
+                        <Link className='social-icon-link-heading xperience-data'
+                                to={{ pathname: "https://'{ExperiencePath}'" }}
+                        >
+                            <div style={{ display: 'flex',  padding: '15px 0'}}>                                
+                                    <FaExternalLinkAlt/>
+                                    <h4>{experienceLink}</h4>                                
+                            </div>
+                            
+                        </Link>
                     </div>
                 </div>
                 <div className='col'>

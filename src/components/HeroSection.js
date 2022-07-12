@@ -39,7 +39,7 @@ function HeroSection({
             <div className='col'>
               <div className='home__hero-text-wrapper'>
                 <div className='k-logo_container'>
-                  <img src={logoImg} alt='logo' className='k-logo-img' />
+                  <img src={logoImg} alt='mylogo' className='k-logo-img' />
                 </div>
                 <div className='top-line'>{topLine}</div>
                 <h1 className={lightText ? 'heading glitch' : 'heading dark'}>
