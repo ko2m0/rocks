@@ -308,7 +308,7 @@
 }
 
 
-.home__hero-section:after {
+.parallax-blot-r {
   content: '';
   width: 20%;
   height: 100%;

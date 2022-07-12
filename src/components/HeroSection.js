@@ -8,6 +8,8 @@ import {
   FaDribbble,
   FaMediumM
 } from 'react-icons/fa';
+import { useState } from 'react';
+import { useEffect } from 'react';
 
 function HeroSection({
   lightBg,
@@ -23,11 +25,22 @@ function HeroSection({
   imgStart,
   homeSocialIcons,
 }) {
+
+  const [offsetY, setOffsetY] = useState(0);
+  const handleScroll = () => setOffsetY(window.pageYOffset);
+
+  useEffect(() => {
+    window.addEventListener("scroll", handleScroll);
+
+    return () => window.removeEventListener("scroll", handleScroll);
+  }, []);
+
   return (
     <>
       <div
         className={lightBg ? 'home__hero-section' : 'home__hero-section darkBg'}
       >
+        <div className='parallax-blot-r' style={{transform: `translateY(-${offsetY * 0.3}px)`}}></div>
         <div className='container'>
           <div
             className='row home__hero-row'
@@ -39,7 +52,7 @@ function HeroSection({
             <div className='col'>
               <div className='home__hero-text-wrapper'>
                 <div className='k-logo_container'>
-                  <img src={logoImg} alt='mylogo' className='k-logo-img' />
+                  <img src={logoImg} alt='mylogo' className='k-logo-img' style={{transform: `translateY(${offsetY * 0.2}px)`}} />
                 </div>
                 <div className='top-line'>{topLine}</div>
                 <h1 className={lightText ? 'heading glitch' : 'heading dark'}>

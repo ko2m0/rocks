@@ -1,4 +1,4 @@
-import React from 'react';
+import React, { useState, useEffect } from 'react';
 import './App.css';
 import Navbar  from './components/Navbar';
 import { Switch, Route } from 'react-router-dom';
@@ -10,6 +10,7 @@ import NoPage from './components/pages/NoPage';
 
 
 function App() {
+
   return (
       <>
         <Navbar/>
