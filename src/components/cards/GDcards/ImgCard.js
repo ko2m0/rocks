@@ -5,19 +5,19 @@ class ImgCard extends Component {
     render() {
         var data = [
             {
-                url: "/images/gd_project1_600_1.jpg",
+                url: "https://ko2m0.github.io/rocks/images/gd_project1_600_1.jpg",
                 title: "",
-                thumbUrl: "/images/gd_project1_400_1.jpg",
+                thumbUrl: "https://ko2m0.github.io/rocks/images/gd_project1_400_1.jpg",
             },
             {
-                url: "/images/gd_project2_600_1.jpg",
+                url: "https://ko2m0.github.io/rocks/images/gd_project2_600_1.jpg",
                 title: "",
-                thumbUrl: "/images/gd_project2_400_1.jpg",
+                thumbUrl: "https://ko2m0.github.io/rocks/images/gd_project2_400_1.jpg",
             },
             {
-                url: "/images/gd_project3_600_1.jpg",
+                url: "https://ko2m0.github.io/rocks/images/gd_project3_600_1.jpg",
                 title: "",
-                thumbUrl: "/images/gd_project3_400_1.jpg",
+                thumbUrl: "https://ko2m0.github.io/rocks/images/gd_project3_400_1.jpg",
             }
         ];
 

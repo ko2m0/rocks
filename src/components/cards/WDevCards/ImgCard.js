@@ -15,9 +15,9 @@ class ImgCard extends Component {
                 thumbUrl: "https://via.placeholder.com/400",
             },
             {
-                url: "/images/wdev_project3_600_1.jpg",
+                url: "https://ko2m0.github.io/rocks/images/wdev_project3_600_1.jpg",
                 title: "",
-                thumbUrl: "/images/wdev_project3_400_1.jpg",
+                thumbUrl: "https://ko2m0.github.io/rocks/images/wdev_project3_400_1.jpg",
             }
         ];
 
