@@ -5,6 +5,7 @@ import { Switch, Route } from 'react-router-dom';
 import Home from './components/pages/HomePage/Home';
 import Experience from './components/pages/Experience/index';
 import Education from './components/pages/Education/index';
+import ScrollButton from './components/ScrollButton';
 import Footer from './components/pages/Footer/Footer';
 import NoPage from './components/pages/NoPage';
 
@@ -20,6 +21,7 @@ function App() {
           <Route path="/" component={Home}/>
           <Route path="*" component={NoPage} />
         </Switch>
+        <ScrollButton/>
         <Footer/>
         </>
   );
